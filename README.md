@@ -1,4 +1,4 @@
-🌍 Gas Infrastructure KMZ Generator
+# 🌍 Gas Infrastructure KMZ Generator
 An automated tool to convert GeoJSON layers of gas infrastructure into a styled KMZ file for visualization in Google Earth.
 
 📘 Overview
