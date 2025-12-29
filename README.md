@@ -4,7 +4,7 @@ An automated tool to convert GeoJSON layers of gas infrastructure into a styled 
 📘 Overview
 This repository provides a Python script that:
 
-Reads GeoJSON files representing nodes, pipelines, production sites, and storage facilities.
+Reads GeoJSON files extracted from entsog.eu representing nodes, pipelines, production sites, and storage facilities.
 Infers node types based on names and applies custom icons.
 Generates a KMZ file with styled points and lines for easy visualization.
 
